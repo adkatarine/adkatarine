@@ -15,10 +15,9 @@
     <img align="center" alt="Adlla-VSCode" src="https://img.icons8.com/fluency/48/000000/visual-studio-code-2019.png"/>
 </details>
 
-
 <div>
   <a href="https://github.com/adkatarine">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=adkatarine&show_icons=true&theme=onedark&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=adkatarine&show_icons=true&theme=onedark&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=adkatarine&layout=compact&langs_count=7&theme=onedark"/>
 </div>
   

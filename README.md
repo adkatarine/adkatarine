@@ -1,7 +1,6 @@
 ### Olá, me chamo Adlla 😚
 
 - 👩‍🎓 Estudante de Engenharia de Computação na UEFS
-- 👩‍💻 Membro da <a src="https://github.com/EcompJr"> EcompJr </a>
 
     <summary align="left">👾 Linguagens e Frameworks
     <br />
